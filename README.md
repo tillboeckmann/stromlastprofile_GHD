@@ -16,7 +16,7 @@ Die Ergebnisse des Modells umfassen als ersten Teil branchen- und technologiespe
 
 # Literatur
 
-- **Böckmann, T. u.a. (2021).** *Ingenieurwissenschaftliche Modellierung branchen- und technologiespezifischer Last-profile des Sektors Gewerbe, Handel, Dienstleistungen (GHD)*. Working Paper Energie und Ressourcen, Technische Universität Berlin. DOI: 10.5281/zenodo.4817980
+- **Böckmann, T. u.a. (2021).** *Ingenieurwissenschaftliche Modellierung branchen- und technologiespezifischer Lastprofile des Sektors Gewerbe, Handel, Dienstleistungen (GHD)*. Working Paper Energie und Ressourcen, Technische Universität Berlin. DOI: 10.5281/zenodo.4817980
 - **DemandRegio - opendata.ffe.de**; URL: http://opendata.ffe.de/project/demandregio/ (besucht am 30.03.2021).
 - **Gotzens, F. u. a. (2020).** *DemandRegio - Harmonisierung und Entwicklung von Verfahren zur regionalen und zeitlichen Auflösung von Energienachfragen.* Forschungsbericht. Berlin, Jülich, München. doi: https://doi.org/10.34805/ffe-119-20. url: https://www.er.tuberlin.de/fileadmin/a38331300/Dateien/DemandRegio_Abschlussbericht.pdf (besucht am 15. 01. 2021).
 - **Kleinhans, D. (2014).** *Towards a systematic characterization of the potential of demand side management*. In: arXiv preprint arXiv:1401.4121. url: https://arxiv.org/pdf/1401.
