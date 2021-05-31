@@ -25,4 +25,4 @@ Die Ergebnisse des Modells umfassen als ersten Teil branchen- und technologiespe
 
 # Lizenz
 
-Die Python-Bibliothek wird als freie Software nach [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html) lizenziert. Weitere Informationen unter [License](https://github.com/tillboeckmann/stromlastprofile_GHD/blob/main/LICENSE)
+Die Python-Bibliothek wird als freie Software nach [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html) lizenziert. Weitere Informationen unter [License](https://github.com/tillboeckmann/stromlastprofile_GHD/blob/main/LICENSE).
