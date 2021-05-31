@@ -22,3 +22,7 @@ Die Ergebnisse des Modells umfassen als ersten Teil branchen- und technologiespe
 - **Kleinhans, D. (2014).** *Towards a systematic characterization of the potential of demand side management*. In: arXiv preprint arXiv:1401.4121. url: https://arxiv.org/pdf/1401.
 4121.pdf (besucht am 21. 11. 2020).
 - **Seim, S. u.a. (2021).** *Fortschreibung gewerblicher Lastprofile und Quantifizierung regionalisierter Lastflexibilisierungspotenziale*. Working Paper Energie und Ressourcen, Technische Universität Berlin. DOI: 
+
+# Lizenz
+
+Die Python-Bibliothek wird als freie Software nach [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html) lizenziert. Weitere Informationen unter [License](https://github.com/tillboeckmann/stromlastprofile_GHD/blob/main/LICENSE)
