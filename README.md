@@ -1,6 +1,6 @@
 # Modellierung von Stromlastgängen der Querschnittstechnologien im Sektor Gewerbe, Handel, Dienstleistungen (GHD) zur Fortschreibung und Potenzialanalyse der Nachfrageflexibilisierung
 
-Die vorliegende Python-Bibliothek orientiert sich an vier Modulen nach Böckmann u.a. (2021) sowie Seim u.a. (2021):
+Der vorliegende Python-Programmcode orientiert sich an vier Modulen nach Böckmann u.a. (2021) sowie Seim u.a. (2021):
 1. Entwicklung branchen- und technologiespezifischer Lastprofile des deutschen GHD-Sektors im Jahr 2018
 2. Fortschreibung der Lastprofile bis 2035 anhand von zwei literaturbasierten Energieverbrauchsszenarien
 3. Quantifizierung zeitlich hochaufgelöster Nachfrageflexibilisierungspotenziale mithilfe eines Ansatzes nach Kleinhans (2014)
