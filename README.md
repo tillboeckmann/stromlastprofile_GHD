@@ -12,7 +12,7 @@ Die Module werde aus zwei main-Dateien bedient, die im .ipynb- und .py-Format vo
 
 Die ersten beiden Modellierungsschritte des ersten Moduls der Arbeit sind mit Annahmen verbunden. Im ersten Schritt, der Entwicklung von Bottom-up-Lastprofilen, werden literaturbasierte Annahmen als Teil der Technologiedaten getroffen. Im zweiten Schritt werden die Lastprofile um strukturelle Annahmen ergänzt, die aus einem Vergleich mit den Branchenlastprofilen des Forschungsprojekts "DemandRegio" abgeleitet werden. Die genauen Annahmen werden von Böckmann u.a. (2021) beschrieben. Zur besseren Nachvollziehbarkeit der Modellierung ist jede Annahme mit einem Kürzel innerhalb dieses Programms versehen. **kuerzel_tabelle** fasst diese Anmerkungen zusammen und ist zusätzlich im Jupyter Notebook der entsprechenden main-Datei abgebildet. 
 
-Die Ergebnisse des Modells umfassen als ersten Teil branchen- und technologiespezifische Stromlastgänge als Endergebnis des ersten Moduls im Ordner **results_lastgaenge/**. Diese beziehen sich auf das Jahr 2018 und umfassen folgende Branchen: büroähnliche Betriebe (WZ 64-71), Handel (WZ 47), Beherbergung (WZ 55), Krankenhäuser (WZ 86) und Schulen (WZ 85) nach Destatis (2008). Der zweite Teil der an dieser Stelle veröffentlichten Ergebnisse besteht aus der Zusammenfassung regionalisierter Flexibilisierungspotenziale für das Basisszenario des Jahres 2035 und für das Status-Quo-Szenario des Jahres 2018 im Ordner **results_flexi/**. Die detaillierte Auflistung aller regionalisierten Lastgänge je Technologie sowie der Flexibilisierungspotenziale je Wirtschaftszweig mit einer Größe von 26 GB kann auf Nachfrage von den Autoren geteilt werden.
+Die Ergebnisse des Modells umfassen als ersten Teil branchen- und technologiespezifische Stromlastgänge als Endergebnis des ersten Moduls im Ordner **results_lastgaenge/**. Diese beziehen sich auf das Jahr 2018 und umfassen folgende Branchen: büroähnliche Betriebe (WZ64-71), Handel (WZ47), Beherbergung (WZ55), Krankenhäuser (WZ86) und Schulen (WZ85) nach Destatis (2008). Der zweite Teil der an dieser Stelle veröffentlichten Ergebnisse besteht aus der Zusammenfassung regionalisierter Flexibilisierungspotenziale für das Basisszenario des Jahres 2035 und für das Status-Quo-Szenario des Jahres 2018 im Ordner **results_flexi/**. Die detaillierte Auflistung aller regionalisierten Lastgänge je Technologie sowie der Flexibilisierungspotenziale je Wirtschaftszweig mit einer Größe von 26 GB kann auf Nachfrage von den Autoren geteilt werden.
 
 # Literatur
 
@@ -22,6 +22,11 @@ Die Ergebnisse des Modells umfassen als ersten Teil branchen- und technologiespe
 - **Kleinhans, D. (2014).** *Towards a systematic characterization of the potential of demand side management*. In: arXiv preprint arXiv:1401.4121. url: https://arxiv.org/pdf/1401.
 4121.pdf (besucht am 21. 11. 2020).
 - **Seim, S. u.a. (2021).** *Fortschreibung gewerblicher Lastprofile und Quantifizierung regionalisierter Lastflexibilisierungspotenziale*. Working Paper Energie und Ressourcen, Technische Universität Berlin. DOI: 10.5281/zenodo.4817512
+- **Statistisches Bundesamt (Destatis) (2008).** *Klassifikation der Wirtschaftszweige.* url:https://www.destatis.de/static/DE/dokumente/klassifikation-wz-2008-3100100089004.pdf (besucht am 09. 11. 2020).
+
+# Zitieren
+Bitte zitieren Sie diese freie Software als:
+- **Böckmann, T. und Seim, S. (2021).** *Modellierung von Stromlastgängen der Querschnittstechnologien im Sektor Gewerbe, Handel, Dienstleistungen (GHD) zur Fortschreibung und Potenzialanalyse der Nachfrageflexibilisierung* DOI: 10.5281/zenodo.4890522
 
 # Lizenz
 
