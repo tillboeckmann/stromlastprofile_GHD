@@ -26,7 +26,7 @@ Die Ergebnisse des Modells umfassen als ersten Teil branchen- und technologiespe
 
 # Zitieren
 Bitte zitieren Sie diese freie Software als:
-- **Böckmann, T. und Seim, S. (2021).** *Modellierung von Stromlastgängen der Querschnittstechnologien im Sektor Gewerbe, Handel, Dienstleistungen (GHD) zur Fortschreibung und Potenzialanalyse der Nachfrageflexibilisierung*. DOI: 10.5281/zenodo.4890522
+- **Böckmann, T. und Seim, S. (2021).** *Modellierung von Stromlastgängen der Querschnittstechnologien im Sektor Gewerbe, Handel, Dienstleistungen (GHD) zur Fortschreibung und Potenzialanalyse der Nachfrageflexibilisierung*. DOI: 10.5281/zenodo.4906802.
 
 # Lizenz
 
